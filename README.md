@@ -1,1 +1,0 @@
-# SA-61-2021-22-AKashosi-Data-Quality-Management-in-ETL-Process
